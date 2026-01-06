@@ -1,0 +1,18 @@
+{
+    "group_id": "sakurazaka",
+    "version": 1,
+    "list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?ct={ct}&page={page}",
+    "main_list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?page={page}",
+    "selectors": {
+      "list_item": "div.member-blog-listm ul.com-blog-part li.box",
+      "title": "h3.title",
+      "date": "p.date",
+      "author": "",
+      "detail_url": "a@href",
+      "cover_image": "",
+      "content_body": ".box-article"
+    },
+    "headers": {}
+  }
+  
+  

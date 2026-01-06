@@ -1,0 +1,18 @@
+{
+    "group_id": "hinatazaka",
+    "version": 1,
+    "list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?ct={ct}&page={page}",
+    "main_list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?page={page}",
+    "selectors": {
+      "list_item": ".p-blog-article",
+      "title": ".c-blog-article__title",
+      "date": ".c-blog-article__date",
+      "author": "",
+      "detail_url": "a.c-button-blog-detail@href",
+      "cover_image": "",
+      "content_body": ".c-blog-article__text"
+    },
+    "headers": {}
+  }
+  
+  
