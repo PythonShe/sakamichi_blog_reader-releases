@@ -9,7 +9,7 @@
       "date": "p.bl--card__date",
       "author": "",
       "detail_url": "@href",
-      "cover_image": "",
+      "cover_image": "div.bl--card__img div.m--bg@data-src",
       "content_body": "div.bd--edit"
     },
     "headers": {}

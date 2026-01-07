@@ -9,7 +9,7 @@
       "date": ".c-blog-article__date",
       "author": "",
       "detail_url": "a.c-button-blog-detail@href",
-      "cover_image": "",
+      "cover_image": ".c-blog-article__text img@src",
       "content_body": ".c-blog-article__text"
     },
     "headers": {}
