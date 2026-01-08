@@ -7,7 +7,7 @@
       "list_item": "div.member-blog-listm ul.com-blog-part li.box",
       "title": "h3.title",
       "date": "p.date",
-      "author": "",
+      "author": "p.name",
       "detail_url": "a@href",
       "cover_image": ".c-blog-article__text img@src",
       "content_body": ".box-article"

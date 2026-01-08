@@ -7,7 +7,7 @@
       "list_item": ".p-blog-article",
       "title": ".c-blog-article__title",
       "date": ".c-blog-article__date",
-      "author": "",
+      "author": ".c-blog-article__name",
       "detail_url": "a.c-button-blog-detail@href",
       "cover_image": ".c-blog-article__text img@src",
       "content_body": ".c-blog-article__text"

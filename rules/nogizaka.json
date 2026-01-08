@@ -7,7 +7,7 @@
       "list_item": "div.bl--list a.bl--card",
       "title": "p.bl--card__ttl",
       "date": "p.bl--card__date",
-      "author": "",
+      "author": ".bl--card__name",
       "detail_url": "@href",
       "cover_image": "div.bl--card__img div.m--bg@data-src",
       "content_body": "div.bd--edit"
