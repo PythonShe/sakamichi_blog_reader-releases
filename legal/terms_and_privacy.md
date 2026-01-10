@@ -91,7 +91,7 @@ Für zukünftige Versionen sind Cloud-Funktionen geplant. Sobald diese eingefüh
 
 ---
 
-## 🇨🇳 简体中文 (Simplified Chinese)
+## 简体中文 (Simplified Chinese)
 
 ### 用户协议与隐私政策
 
