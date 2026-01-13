@@ -1,18 +1,16 @@
 {
-    "group_id": "sakurazaka",
-    "version": 1,
-    "list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?ct={ct}&page={page}",
-    "main_list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?page={page}",
-    "selectors": {
-      "list_item": "div.member-blog-listm ul.com-blog-part li.box",
-      "title": "h3.title",
-      "date": "p.date",
-      "author": "p.name",
-      "detail_url": "a@href",
-      "cover_image": ".c-blog-article__text img@src",
-      "content_body": ".box-article"
-    },
-    "headers": {}
-  }
-  
-  
+  "group_id": "sakurazaka",
+  "version": 1,
+  "list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?ct={ct}&page={page}",
+  "main_list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?page={page}",
+  "selectors": {
+    "list_item": "div.member-blog-listm ul.com-blog-part li.box, div.blog-top ul.com-blog-part li.box",
+    "title": "h3.title",
+    "date": "p.date",
+    "author": "p.name",
+    "detail_url": "a@href",
+    "cover_image": "p.com-coverbox span.img@style",
+    "content_body": ".box-article"
+  },
+  "headers": {}
+}
