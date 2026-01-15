@@ -1,18 +1,18 @@
 {
-    "group_id": "nogizaka",
-    "version": 1,
-    "list_api": "https://www.nogizaka46.com/s/n46/diary/MEMBER/list?ct={ct}&page={page}",
-    "main_list_api": "https://www.nogizaka46.com/s/n46/diary/MEMBER/list?page={page}",
-    "selectors": {
-      "list_item": "div.bl--list a.bl--card",
-      "title": "p.bl--card__ttl",
-      "date": "p.bl--card__date",
-      "author": ".bl--card__name",
-      "detail_url": "@href",
-      "cover_image": "div.bl--card__img div.m--bg@data-src",
-      "content_body": "div.bd--edit"
-    },
-    "headers": {}
-  }
-  
-  
+  "group_id": "nogizaka",
+  "version": 1,
+  "avatar_tag": "n46_40th_single",
+  "avatar_profile_url_template": "https://www.nogizaka46.com/s/n46/artist/{ct}",
+  "list_api": "https://www.nogizaka46.com/s/n46/diary/MEMBER/list?ct={ct}&page={page}",
+  "main_list_api": "https://www.nogizaka46.com/s/n46/diary/MEMBER/list?page={page}",
+  "selectors": {
+    "list_item": "div.bl--list a.bl--card",
+    "title": "p.bl--card__ttl",
+    "date": "p.bl--card__date",
+    "author": ".bl--card__name",
+    "detail_url": "@href",
+    "cover_image": "div.bl--card__img div.m--bg@data-src",
+    "content_body": "div.bd--edit"
+  },
+  "headers": {}
+}

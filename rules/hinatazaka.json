@@ -1,18 +1,18 @@
 {
-    "group_id": "hinatazaka",
-    "version": 1,
-    "list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?ct={ct}&page={page}",
-    "main_list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?page={page}",
-    "selectors": {
-      "list_item": ".p-blog-article",
-      "title": ".c-blog-article__title",
-      "date": ".c-blog-article__date",
-      "author": ".c-blog-article__name",
-      "detail_url": "a.c-button-blog-detail@href",
-      "cover_image": ".c-blog-article__text img@src",
-      "content_body": ".c-blog-article__text"
-    },
-    "headers": {}
-  }
-  
-  
+  "group_id": "hinatazaka",
+  "version": 1,
+  "avatar_tag": "h46_16th_single",
+  "avatar_profile_url_template": "https://www.hinatazaka46.com/s/official/artist/{ct}",
+  "list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?ct={ct}&page={page}",
+  "main_list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?page={page}",
+  "selectors": {
+    "list_item": ".p-blog-article",
+    "title": ".c-blog-article__title",
+    "date": ".c-blog-article__date",
+    "author": ".c-blog-article__name",
+    "detail_url": "a.c-button-blog-detail@href",
+    "cover_image": ".c-blog-article__text img@src",
+    "content_body": ".c-blog-article__text"
+  },
+  "headers": {}
+}
