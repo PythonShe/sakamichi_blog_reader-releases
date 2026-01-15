@@ -7,6 +7,22 @@
       {
         "member_id": "hinatazaka:13",
         "status": "graduated"
+      },
+      {
+        "member_id": "hinatazaka:18",
+        "status": "graduated"
+      },
+      {
+        "member_id": "nogizaka:63103",
+        "status": "inactive"
+      },
+      {
+        "member_id": "nogizaka:48019",
+        "status": "graduated"
+      },
+      {
+        "member_id": "nogizaka:55386",
+        "status": "graduated"
       }
     ]
   }
