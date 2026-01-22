@@ -1,7 +1,7 @@
 {
   "group_id": "hinatazaka",
   "version": 1,
-  "avatar_tag": "h46_16th_single",
+  "profile_tag": "h46_16th_single",
   "avatar_profile_url_template": "https://www.hinatazaka46.com/s/official/artist/{ct}",
   "list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?ct={ct}&page={page}",
   "main_list_api": "https://www.hinatazaka46.com/s/official/diary/member/list?page={page}",

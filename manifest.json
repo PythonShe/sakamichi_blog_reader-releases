@@ -5,9 +5,9 @@
     "version": 20260101213004
   },
   "rules/hinatazaka.json": {
-    "hash": "a392a55e3d75ff14eb426ba4bc027ab1f241654898727b7e2427fd9dba51a775",
-    "size": 692,
-    "version": 20260115192944
+    "hash": "0c0aa46cf36d4b77ae62d0d97fc85acfc6550729d9f5ce13e072a52e217d3bb6",
+    "size": 693,
+    "version": 20260122010242
   },
   "rules/member_status.json": {
     "hash": "20ef9842601f4e4aa42023b6e338ad2ee777e9f43f270557a2b8e5ae1c867071",
@@ -15,13 +15,13 @@
     "version": 20260115214704
   },
   "rules/nogizaka.json": {
-    "hash": "89bea1fe8b737e7bbaa0fe4d5336535f007ef53c2b7079c25f741a5811bdd61f",
-    "size": 635,
-    "version": 20260115193001
+    "hash": "4a82ca619d0bc860353d993745298bc3ec6dfefc5d85caabd975e48e4a664514",
+    "size": 636,
+    "version": 20260122010238
   },
   "rules/sakurazaka.json": {
-    "hash": "84b6c3203d7cf18397e6c9e023745cc04be6393fb7260c34014fbbad27d45d15",
-    "size": 655,
-    "version": 20260115193100
+    "hash": "0985277a5c8c839f3cfb4e1898da53ca0ca2f6d44eb4e0144c0e3e0582b957ce",
+    "size": 656,
+    "version": 20260122010247
   }
 }
