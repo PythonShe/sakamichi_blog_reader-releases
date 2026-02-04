@@ -1,6 +1,7 @@
 {
   "group_id": "nogizaka",
   "version": 1,
+  "date_parse_strategy": "nogizaka",
   "profile_tag": "n46_40th_single",
   "avatar_profile_url_template": "https://www.nogizaka46.com/s/n46/artist/{ct}",
   "list_api": "https://www.nogizaka46.com/s/n46/diary/MEMBER/list?ct={ct}&page={page}",
