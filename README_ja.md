@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../icons/appicon/AppIcon.png" alt="坂道ブログ" width="120" height="120" style="border-radius: 24px;">
+  <img src="assets/icons/appicon/AppIcon.png" alt="坂道ブログ" width="120" height="120" style="border-radius: 24px;">
 </p>
 
 <h1 align="center">坂道ブログ</h1>
