@@ -7,7 +7,7 @@
   "rules/hinatazaka.json": {
     "hash": "2e30020df3d50b1ba79c3d9dc28047a10e29dc5b605f05b75e457172f77d5103",
     "size": 732,
-    "version": 20260204165301
+    "version": 20260204191511
   },
   "rules/member_status.json": {
     "hash": "20ef9842601f4e4aa42023b6e338ad2ee777e9f43f270557a2b8e5ae1c867071",
@@ -17,11 +17,11 @@
   "rules/nogizaka.json": {
     "hash": "13fa495a23d23594bf13970b7695cde368d754f34baca05c826372af564b3fcb",
     "size": 673,
-    "version": 20260204165257
+    "version": 20260204191511
   },
   "rules/sakurazaka.json": {
-    "hash": "583f1956743d6417eede1731d99bb16ae588cd4a377d578ce7d9ab65ab66a359",
+    "hash": "2daa972261c62b5fee2dba5efe9a5eaf4432458d7d05143335159d27309c810f",
     "size": 695,
-    "version": 20260204165305
+    "version": 20260223183344
   }
 }
