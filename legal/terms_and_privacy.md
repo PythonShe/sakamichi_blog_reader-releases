@@ -89,7 +89,7 @@ Die App stellt direkte Verbindungen her zu:
 
 ---
 
-## 🇨🇳 简体中文 (Simplified Chinese)
+## 简体中文 (Simplified Chinese)
 
 ### 用户协议与隐私政策
 
@@ -118,7 +118,7 @@ Die App stellt direkte Verbindungen her zu:
 
 ---
 
-## 🇹🇼 繁體中文 (Traditional Chinese)
+## 繁體中文 (Traditional Chinese)
 
 ### 使用者協議與隱私權政策
 
