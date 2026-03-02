@@ -43,9 +43,10 @@
 
 | 平台     | 最低版本       |
 |---------|--------------|
-| Android | Android 5.0+ |
-| iOS     | iOS 13.0+    |
-| macOS   | macOS 10.15+ |
+| Android | Android 10.0+ |
+| iOS     | iOS 16.0+    |
+| macOS（Apple Silicon） | macOS 13.0+ |
+| macOS（Intel） | macOS 11.0+ |
 | Windows | Windows 10+  |
 
 ## 下載
