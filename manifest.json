@@ -1,8 +1,28 @@
 {
-  "legal/terms_and_privacy.md": {
-    "hash": "4d591474077b72fb9e5279ca4f6fb027c7b671a8bb4f3f77ce066965ba98219b",
-    "size": 7126,
-    "version": 20260302193333
+  "legal/terms_and_privacy_en.md": {
+    "hash": "c2dcd72f0b336de439c5ac57f33c31adb27d58fb688552a72efcaef8345d3f4b",
+    "size": 2201,
+    "version": 20260306215315
+  },
+  "legal/terms_and_privacy_ja.md": {
+    "hash": "836436d0b44a186f5ee8ca6e63963c9d1d66eea28b7628a0c1aa0a9eea79a7bb",
+    "size": 3188,
+    "version": 20260306215722
+  },
+  "legal/terms_and_privacy_ko.md": {
+    "hash": "c69bc3eba72293eb6ff99b2f02988b6fec031431b2afff48a934fc28c65b122e",
+    "size": 2746,
+    "version": 20260306215732
+  },
+  "legal/terms_and_privacy_zh_hans.md": {
+    "hash": "eb2aa89b36c899b463596e4b728361514f56593ed0415fd22c5f6055390d5b1c",
+    "size": 2165,
+    "version": 20260306215751
+  },
+  "legal/terms_and_privacy_zh_hant.md": {
+    "hash": "cf4178b6a9a1793aa982043fd0753e981cb799c22a2c601681aeea13dcc84082",
+    "size": 2292,
+    "version": 20260306215759
   },
   "rules/hinatazaka.json": {
     "hash": "2e30020df3d50b1ba79c3d9dc28047a10e29dc5b605f05b75e457172f77d5103",
@@ -10,9 +30,9 @@
     "version": 20260204191511
   },
   "rules/member_status.json": {
-    "hash": "376fc297193b06c97b506bc68e62d32b2fd431cdba8f5fd5ecd2eee5190be2a4",
-    "size": 564,
-    "version": 20260302192216
+    "hash": "8cf43300fc24f8156b2ee8e288d3f331e7ff4e5b4f7a904dc729cf537c0f2d82",
+    "size": 562,
+    "version": 20260403153101
   },
   "rules/nogizaka.json": {
     "hash": "f343ed8217b080892639d06d4e8dc22dfaf0f9c730dccf58766961bf54a792ff",
