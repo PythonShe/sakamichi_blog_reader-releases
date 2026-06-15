@@ -9,15 +9,19 @@
       "status": "graduated"
     },
     {
+      "member_id": "nogizaka:36751",
+      "status": "graduated"
+    },
+    {
       "member_id": "nogizaka:36753",
       "status": "graduated"
     },
     {
-      "member_id": "nogizaka:63103",
-      "status": "active"
+      "member_id": "nogizaka:48019",
+      "status": "graduated"
     },
     {
-      "member_id": "nogizaka:48019",
+      "member_id": "nogizaka:55384",
       "status": "graduated"
     },
     {
@@ -25,7 +29,19 @@
       "status": "graduated"
     },
     {
+      "member_id": "nogizaka:63103",
+      "status": "active"
+    },
+    {
+      "member_id": "nogizaka:63109",
+      "status": "inactive"
+    },
+    {
       "member_id": "sakurazaka:43",
+      "status": "graduated"
+    },
+    {
+      "member_id": "sakurazaka:45",
       "status": "graduated"
     }
   ]

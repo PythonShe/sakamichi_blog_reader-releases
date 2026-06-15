@@ -2,7 +2,7 @@
   "group_id": "sakurazaka",
   "version": 1,
   "date_parse_strategy": "sakurazaka",
-  "profile_tag": "s46_14th_single",
+  "profile_tag": "s46_15th_single",
   "avatar_profile_url_template": "https://sakurazaka46.com/s/s46/artist/{ct}",
   "list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?ct={ct}&page={page}",
   "main_list_api": "https://sakurazaka46.com/s/s46/diary/blog/list?page={page}",
