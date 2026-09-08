@@ -9,11 +9,19 @@
       "status": "graduated"
     },
     {
+      "member_id": "hinatazaka:24",
+      "status": "graduated"
+    },
+    {
       "member_id": "nogizaka:36751",
       "status": "graduated"
     },
     {
       "member_id": "nogizaka:36753",
+      "status": "graduated"
+    },
+    {
+      "member_id": "nogizaka:36759",
       "status": "graduated"
     },
     {
@@ -34,7 +42,7 @@
     },
     {
       "member_id": "nogizaka:63109",
-      "status": "inactive"
+      "status": "active"
     },
     {
       "member_id": "sakurazaka:43",

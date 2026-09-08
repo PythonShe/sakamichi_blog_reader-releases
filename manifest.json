@@ -2,46 +2,46 @@
   "legal/terms_and_privacy_en.md": {
     "hash": "c2dcd72f0b336de439c5ac57f33c31adb27d58fb688552a72efcaef8345d3f4b",
     "size": 2201,
-    "version": 20260306215315
+    "version": 20260616153605
   },
   "legal/terms_and_privacy_ja.md": {
     "hash": "836436d0b44a186f5ee8ca6e63963c9d1d66eea28b7628a0c1aa0a9eea79a7bb",
     "size": 3188,
-    "version": 20260306215722
+    "version": 20260616153605
   },
   "legal/terms_and_privacy_ko.md": {
     "hash": "c69bc3eba72293eb6ff99b2f02988b6fec031431b2afff48a934fc28c65b122e",
     "size": 2746,
-    "version": 20260306215732
+    "version": 20260616153605
   },
   "legal/terms_and_privacy_zh_hans.md": {
     "hash": "eb2aa89b36c899b463596e4b728361514f56593ed0415fd22c5f6055390d5b1c",
     "size": 2165,
-    "version": 20260306215751
+    "version": 20260616153605
   },
   "legal/terms_and_privacy_zh_hant.md": {
     "hash": "cf4178b6a9a1793aa982043fd0753e981cb799c22a2c601681aeea13dcc84082",
     "size": 2292,
-    "version": 20260306215759
+    "version": 20260616153605
   },
   "rules/hinatazaka.json": {
-    "hash": "98b3c39af566eab33438f9fcb592b8d77ae80d132b3f6eda432cffb7fe210261",
+    "hash": "f0744152c5d48b26515070b4a2d325dce6337714e7e06aeccf43b8c061dbc505",
     "size": 732,
-    "version": 20260615132528
+    "version": 20260908184912
   },
   "rules/member_status.json": {
-    "hash": "eb3f89e51452e2a5c7b71207cd94dffed685bf089d42299df4cafb25aad68493",
-    "size": 872,
-    "version": 20260615132505
+    "hash": "f91047466ac1a962bd853f488719bfe064f3edd9e383833c75de62ea40bb8b01",
+    "size": 1025,
+    "version": 20260908184848
   },
   "rules/nogizaka.json": {
     "hash": "e22625faea0bd10f0fb528ffec1eebbab43df40f182205e7b78c714a81fc3564",
     "size": 673,
-    "version": 20260615132518
+    "version": 20260616153605
   },
   "rules/sakurazaka.json": {
-    "hash": "4ed583f678d5c772ed11bed7076337f6ec64916cddc294f062bb48d962a3ba62",
+    "hash": "f136c668a00508d3c26ce782c2688ce075d1dd81e2c4df7e5cb7c361e8e11e60",
     "size": 695,
-    "version": 20260615132524
+    "version": 20260908184912
   }
 }
